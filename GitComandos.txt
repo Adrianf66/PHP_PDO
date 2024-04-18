@@ -1,0 +1,31 @@
+Inicio de branchs:
+
+git flow feature start NomeBranch
+
+Git pull e npm run build para estar tudo certo
+
+
+
+Finalizando branch do flow:
+
+1 - git add .
+
+2 - git commit -m "sufixo padrão: descrição do commit"
+
+	Se for uma branch do github
+3 - git pull -> Fazer quando a branch estiver no github
+
+4 - git push -> Fazer quando a barnch já estiver no github.
+
+
+	Quando finalizar o desenvolvimento 
+3 - git flow feature finish -> Isso vai finalizar a branch e fazer merge com a develop
+
+4 - git pull
+
+5 -git push
+
+
+
+
+
